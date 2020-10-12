@@ -1,1 +1,1 @@
-# election
+simple register for an election
